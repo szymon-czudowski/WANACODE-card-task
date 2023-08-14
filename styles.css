@@ -1,0 +1,21 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: row;
+}
+.photo {
+    width: 260px;
+    height: 380px;
+}
+.inside-div {
+    justify-content: center;
+    flex-direction: column;
+    height: 380px;
+}
+.child-div {
+    width: 383px;
+    height: 190px;
+    background-color: #192028;
+}
+
